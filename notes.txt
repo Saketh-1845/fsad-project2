@@ -1,2 +1,6 @@
 FSAD Git Version Control Notes
+<<<<<<< HEAD
 # Feature Update Added
+=======
+# Bug Fix Applied
+>>>>>>> bug-fix
